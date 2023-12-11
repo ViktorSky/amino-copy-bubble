@@ -18,7 +18,10 @@ Use the git command
 ```
 git clone https://github.com/ViktorSky/amino-copy-bubble.git
 ```
-
+and install all dependences in `requirements.txt`
+```
+pip install -r requirements.txt
+```
 ## Setup
 
 Set all parameter values in `.env` file
