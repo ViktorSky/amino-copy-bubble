@@ -5,11 +5,11 @@ Copy the user's chat bubble replying to your message.
 > [!WARNING]
 > This script uses an unofficial API wrapper for Amino
 
-## How to use
+## Guide
 
-- Download this script. (See [Installation](#Installation))
-- Setup the environment variables. (See [Setup](#Setup))
-- Run the script. (See [Running](#Running))
+- [Installation](#Installation))
+- [Setup](#Setup)
+- [Running](#Running)
 
 ## Installation
 
