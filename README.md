@@ -7,7 +7,7 @@ Copy the user's chat bubble replying to your message.
 
 ## Guide
 
-- [Installation](#Installation))
+- [Installation](#Installation)
 - [Setup](#Setup)
 - [Running](#Running)
 
