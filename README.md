@@ -7,9 +7,9 @@ Copy the user's chat bubble replying to your message.
 
 ## How to use
 
-- Download this script. [Installation](#Installation)
-- Setup the environment variables
-- Run the script
+- Download this script. (See [Installation](#Installation))
+- Setup the environment variables. (See [Setup](#Setup))
+- Run the script. (See [Running](#Running))
 
 ## Installation
 
