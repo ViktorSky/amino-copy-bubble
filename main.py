@@ -129,7 +129,6 @@ def main():
         print('[i] reply a message for start')
         sleep(60*5)
         bot.close()
-        print("[!] reconnecting...")
 
 
 if __name__ == "__main__":
