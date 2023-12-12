@@ -124,7 +124,7 @@ def main():
     while True:
         print('[i] connecting ...')
         bot.run_amino_socket()
-        while not (bot.socket) or not (bot.socket.sock) or not (bot.socket.sock.connected):
+        while (not bot.socket) or (not bot.socket.sock) or (not bot.socket.sock.connected):
             sleep(1)
         print('[i] reply a message for start')
         sleep(60*5)
