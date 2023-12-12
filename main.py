@@ -120,11 +120,16 @@ def on_text_message(event: Event) -> None:
 
 def main():
     bot.login(EMAIL, PASSWORD)
-    # safe websocket connection
+    # safe websocket connection 
     while True:
+        print('[i] connecting ...')
         bot.run_amino_socket()
-        print('[i] Reply a message for start')
+        while not (bot.socket) or not (bot.socket.sock) or not (bot.socket.sock.connected):
+            sleep(1)
+        print('[i] reply a message for start')
         sleep(60*5)
+        bot.close()
+        print("[!] reconnecting...")
 
 
 if __name__ == "__main__":
