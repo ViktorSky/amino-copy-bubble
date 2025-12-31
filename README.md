@@ -1,4 +1,4 @@
-# Bubble Chat Copy
+# Bubble Chat Copy (server closed)
 
 Copy the user's chat bubble replying to your message.
 
